@@ -1,0 +1,37 @@
+<style type='text/css'>
+#tumblings-player
+{z-index:999;
+background-color: #000000;
+width:50px;
+height:50px;
+
+border-radius:50px 0px 0px 0px;
+-moz-border-radius:50px 0px 0px 0px;
+color:#ffffff;
+position:fixed;
+overflow:hidden;
+bottom:0px;
+right:0px;
+-webkit-transition: opacity 0.8s linear;-webkit-transition: all 0.8s ease-in-out;-moz-transition: all 0.8s ease-in-out;-o-transition: all 0.8s ease-in-out;}
+
+#playericon
+{margin-top:25px;
+margin-bottom:20px;
+margin-left:-5px;
+-webkit-transition: opacity 0.8s linear;-webkit-transition: all 0.8s ease-in-out;-moz-transition: all 0.8s ease-in-out;-o-transition: all 0.8s ease-in-out;}
+
+#tumblings-player:hover
+{width:200px;
+-moz-border-radius:0px;
+border-radius:0px;}
+
+#tumblings-player:hover #playericon
+{margin-top:10px;
+margin-left:0px;
+margin-bottom:4px;}
+</style>
+<div id='tumblings-player'><center>
+<div id='playericon'><a href="http://tumblings.net/post/46761388554/tumblr-music-player"><img alt="Tumblr Music Player" src="http://i122.photobucket.com/albums/o260/mhilka/minigifs/minigif01.gif"/></a></div></center>
+<div><embed src="http://www.sheepproductions.com/billy/billy.swf?autoplay=false&f0=http://xtclub.org.server.e-namai.lt/elarci/files/mp3/s/Studio_Killers_-_Ode_To_The_Bouncer_by_elarci_.mp3&t0=Ohhh yeah&total=1" quality="high" wmode="transparent" width="200" height="10" name="billy" align="middle" type="application/x-shockwave-flash" /></div>
+<div style="color:#000; background-color:#fff; padding:100px; font-size:10px;"><a href="http://tumblings.net/post/46761388554/tumblr-music-player">Tumblr Music Player</a></div>
+ </div>
